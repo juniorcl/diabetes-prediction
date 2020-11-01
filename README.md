@@ -32,9 +32,9 @@ This dataset is at Kaggle [Pima Indians Diabetes Database]() dataset. It is orig
 
 1. Outcome | Class variable (0 or 1) 268 of 768 are 1, the others are 0
 
-## Context
+## About
 
-
+This project is part of the [Machine Health](https://github.com/lmaoclost/Machine-Health) project. It aims to create a app to predict some dicease using data science studies. **WARNING: The app is just for study purposes. Therefore you cannot use it instead of going to the doctor**. 
 
 ## Methodology
 
